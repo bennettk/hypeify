@@ -1,0 +1,13 @@
+HYPEIFY
+=======
+
+your one-stop music tech company mashup generator.
+
+## instructions
+1. click the button
+2. ???
+3. profit!!!
+
+[![](http://www.bennettk.com/hypeify/hypeify.png)]()
+[![](http://www.bennettk.com/hypeify/hypeify-1.png)]()
+[![](http://www.bennettk.com/hypeify/hypeify-2.png)]()
