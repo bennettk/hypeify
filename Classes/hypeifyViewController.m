@@ -34,8 +34,8 @@
 
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad {
-	colA = [[NSArray alloc] initWithObjects:@"hype", @"spot", @"music", @"mix", @"audio", @"sound", @"song", @"band", @"cloud", @"tune", nil];
-	colB = [[NSArray alloc] initWithObjects:@"ify", @"ly", @"brains", @"cloud", @"kick", @"nest", @"ulous", @"core", @"jam", @"base", nil];
+	colA = [[NSArray alloc] initWithObjects:@"hype", @"spot", @"music", @"mix", @"audio", @"sound", @"song", @"band", @"cloud", @"tune", @"gig", nil];
+	colB = [[NSArray alloc] initWithObjects:@"ify", @"ly", @"brains", @"cloud", @"kick", @"nest", @"ulous", @"core", @"jam", @"base", @"box", nil];
     [super viewDidLoad];
 }
 
